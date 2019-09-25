@@ -7,3 +7,9 @@
 [submodule "Assignment 3"]
 	path = Assignment 3
 	url = https://github.com/nachiketdhamankar/ml-assignment-3
+[submodule "Assignment 2"]
+	path = Assignment 2
+	url = https://github.com/nachiketdhamankar/ml-assignment-2
+[submodule "Assignment 4"]
+	path = Assignment 4
+	url = https://github.com/nachiketdhamankar/ml-assignment-4
