@@ -12,4 +12,4 @@ Here's a list of topics that are covered in each assignment.
 
 The solutions of each of the assignments are submodules which are private (which means if you click on them, you'll get a 404)
 
-If you'd like to take a look at the code, shoot me a mail at `nachiket.git at gmail dot com`
+If you'd like to take a look at the code, shoot me a mail at `nachiket dot git at gmail dot com`
